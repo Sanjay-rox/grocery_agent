@@ -1,0 +1,23 @@
+{
+  "last_updated": "2025-09-25T22:45:09.269933",
+  "price_trends": {
+    "test_item": {
+      "test_store": [
+        {
+          "price": 3.99,
+          "timestamp": "2025-09-25T21:34:48.174067"
+        },
+        {
+          "price": 3.99,
+          "timestamp": "2025-09-25T21:36:46.596116"
+        },
+        {
+          "price": 3.99,
+          "timestamp": "2025-09-25T22:45:09.269933"
+        }
+      ]
+    }
+  },
+  "seasonal_patterns": {},
+  "popular_recipes": {}
+}

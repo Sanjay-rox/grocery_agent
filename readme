@@ -1,0 +1,7 @@
+pip install fastapi uvicorn
+pip install groq ollama
+pip install sqlalchemy sqlite3
+pip install beautifulsoup4 selenium requests
+pip install pydantic python-dotenv
+pip install redis celery
+pip install python-multipart
